@@ -30,6 +30,7 @@ Java (Maven):
 
 iOS (добавьте код в ваш Podfile):
 
-```platform :ios, '8.0'
+```
+platform :ios, '8.0'
 pod "neuro-ios-sdk"
 ```
